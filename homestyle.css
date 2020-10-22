@@ -1,0 +1,17 @@
+.login ul li {
+	display: inline-block;
+}
+
+body {
+	overflow-x: hidden;
+}
+
+.fitur{
+	background-color: #161470;
+	color: white;
+	margin-left: 50px;
+}
+
+.about{
+	background-color: #ffe5e3;
+}
