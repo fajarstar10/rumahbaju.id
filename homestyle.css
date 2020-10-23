@@ -9,9 +9,21 @@ body {
 .fitur{
 	background-color: #161470;
 	color: white;
-	margin-left: 50px;
+	
 }
 
 .about{
 	background-color: #ffe5e3;
+}
+
+textarea{
+	width: 250px;
+}
+
+.kotak{
+	width: 250px;
+}
+
+.kotak1{
+	width: 400px;
 }
