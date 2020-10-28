@@ -9,6 +9,7 @@ body {
 .fitur{
 	background-color: #161470;
 	color: white;
+	overflow-x: hidden;
 	
 }
 
@@ -26,4 +27,8 @@ textarea{
 
 .kotak1{
 	width: 400px;
+}
+
+.row{
+	overflow-x: hidden;
 }
