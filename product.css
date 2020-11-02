@@ -30,3 +30,14 @@
 .about{
 	background-color: #ffe5e3;
 }
+
+.container-satu div.row{
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+
+.container-dua{
+	display: flex;
+	justify-content: center;
+	overflow-x: hidden;
+}
